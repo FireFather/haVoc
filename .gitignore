@@ -1,0 +1,20 @@
+#visual studio related
+*.filters
+*.obj
+*.o
+*.exe
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.suo
+*.log
+*.pgn
+
+#misc
+*.tar
+*.tar.gz
+
+
+#directories
+x64\
