@@ -2,7 +2,6 @@
 *.filters
 *.obj
 *.o
-*.exe
 *.ilk
 *.pdb
 *.tlog
